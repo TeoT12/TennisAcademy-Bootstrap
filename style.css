@@ -144,4 +144,8 @@ h1 {
   #check:checked ~ ul {
     left: 0;
   }
+  
+  h1 {
+    font-size: 40px;
+    }
 }
